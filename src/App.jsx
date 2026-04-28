@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import MovieList from './pages/MovieList';
 import MovieDetails from './pages/MovieDetails';
 import AddMovie from './pages/AddMovie';
-import Login from './pages/Login';
+import Login from './pages/login';
 
 function App() {
   return (
